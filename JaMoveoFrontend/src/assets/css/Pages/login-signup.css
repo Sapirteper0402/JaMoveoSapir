@@ -1,0 +1,50 @@
+
+.login-signup form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-signup label {
+    margin: 10px 0 5px;
+}
+
+.login-signup input {
+    width: 100%;
+    padding: 10px;
+    margin-block: 5px 15px;
+    border: 1px solid #D1D5DB; 
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.login-signup input:focus {
+    outline: none;
+    border-color: #6247aa; 
+}
+
+.to-signup-or-login a {
+    background-color: #a06cd542;
+    text-decoration: none;
+    color: unset;
+}
+
+.login-signup select {
+    margin-bottom: 15px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 400px;
+}
+
+/* Responsive styles */
+@media (min-width: 768px) {
+    .login-signup {
+      max-width: 600px;
+    }
+  
+    .login-signup input {
+        width: 70%;
+    }
+  }

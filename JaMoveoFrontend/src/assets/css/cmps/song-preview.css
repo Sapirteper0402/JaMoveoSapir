@@ -1,0 +1,85 @@
+ 
+ul.song-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    padding: 0;
+    margin: 0 auto; 
+}
+
+ul.song-list li {
+    list-style-type: none;
+    padding: 0;
+    width: 100%; 
+    max-width: 600px; 
+}
+
+.song-list li a {
+    text-decoration: inherit;
+    color: unset;
+}
+
+.song-preview {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #D1D5DB;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%; 
+}
+
+
+.song-preview:hover {
+    background-color: #a06cd51a;
+}
+
+
+.song-preview .song-details {
+    flex-grow: 1;
+}
+
+.song-preview .details-image {
+    width: 60px;
+    height: 60px;
+    background-color: #D1D5DB; 
+    border-radius: 4px;
+    margin-right: 15px;
+    display: flex;              /* Added */
+    align-items: center;        /* Added */
+    justify-content: center;    /* Added */
+    overflow: hidden; 
+  }
+
+  .song-preview .details-image img {
+    width: 100%;                /* Ensure the image scales to the container's width */
+    height: auto;               /* Maintain aspect ratio */
+    max-height: 100%;           /* Prevent image from exceeding the container's height */
+    object-fit: cover;          /* Makes sure the image is cropped to fit within the container */
+    border-radius: 4px;         /* Match the container's border radius */
+}
+
+.details-name {
+    font-size: 18px;
+    color: #102b3f; 
+    margin: 5px;
+}
+
+.details-artist {
+    font-size: 14px;
+    color: #718096; 
+    margin: 5px;
+}
+
+/* Responsive styles */
+@media (min-width: 768px) {
+    .song-preview {
+      max-width: 700px;
+    }
+
+    ul.song-list li {
+        width: 100%; 
+    }
+  }

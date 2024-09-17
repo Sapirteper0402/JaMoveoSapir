@@ -1,0 +1,47 @@
+.app-header {
+    background: #a06cd5;
+    color: white;
+}
+
+.app-header section.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5em;
+}
+
+.app-header .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5em; /* Add spacing between the SVG and the text */
+}
+
+.app-header .logo span {
+    font-weight: 500;
+    font-size: 1.2em;
+    font-style: italic;
+    font-family: "Playfair Display";
+}
+
+.app-header .user-info {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.app-header .user-info button {
+    background-color: #E6D9F4;
+    color: #102b3f;
+    border: none;
+    padding: 0.5em 1em;
+    min-width: unset;
+    font-size: 14px;
+}
+
+.app-header .user-info button:hover {
+    background-color: #EAD2F4;
+}
+
+.app-header .user-info span {
+    font-weight: 500;
+}

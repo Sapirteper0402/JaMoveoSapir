@@ -1,0 +1,31 @@
+.player-main {
+    /* text-align: center;
+    max-width: 100%;
+    width: 100%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 15px auto;
+    min-height: 85vh; */
+}
+
+.player-main h1 {
+    font-size: 20px;
+    margin-bottom: 25px;
+    color: #102b3f;
+    font-weight: 400;
+}
+  
+.player-main svg {
+    font-size: 64px;
+    color: #6247aa;
+    margin-bottom: 20px;
+}
+  
+/* Responsive styles */
+@media (min-width: 768px) {
+    .player-main {
+      max-width: 600px;
+    }
+}

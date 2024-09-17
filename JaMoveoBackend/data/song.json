@@ -1,0 +1,665 @@
+[
+    {
+        "_id": "101",
+        "name": "Hey Jude",
+        "artist": "The Beatles",
+        "lyrics": [
+          [
+            { "lyrics": "Hey" },
+            { "lyrics": "Jude", "chords": "F" },
+            { "lyrics": "don't" },
+            { "lyrics": "make" },
+            { "lyrics": "it" },
+            { "lyrics": "bad", "chords": "C" }
+          ],
+          [
+            { "lyrics": "Take" },
+            { "lyrics": "a" },
+            { "lyrics": "sad", "chords": "C7" },
+            { "lyrics": "song", "chords": "C4/7" },
+            { "lyrics": "and" },
+            { "lyrics": "make" },
+            { "lyrics": "it" },
+            { "lyrics": "better", "chords": "F" }
+          ],
+          [
+            { "lyrics": "Remember" },
+            { "lyrics": "to" },
+            { "lyrics": "let" },
+            { "lyrics": "her" },
+            { "lyrics": "into" },
+            { "lyrics": "your" },
+            { "lyrics": "heart", "chords": "F" }
+          ],
+          [
+            { "lyrics": "Then" },
+            { "lyrics": "you" },
+            { "lyrics": "can" },
+            { "lyrics": "start" },
+            { "lyrics": "to" },
+            { "lyrics": "make" },
+            { "lyrics": "it" },
+            { "lyrics": "better", "chords": "C" }
+          ],
+          [
+            { "lyrics": "So" },
+            { "lyrics": "let" },
+            { "lyrics": "it" },
+            { "lyrics": "out" },
+            { "lyrics": "and" },
+            { "lyrics": "let" },
+            { "lyrics": "it" },
+            { "lyrics": "in" },
+            { "lyrics": "Hey" },
+            { "lyrics": "Jude", "chords": "F" }
+          ],
+          [
+            { "lyrics": "You" },
+            { "lyrics": "were" },
+            { "lyrics": "made" },
+            { "lyrics": "to" },
+            { "lyrics": "go" },
+            { "lyrics": "out" },
+            { "lyrics": "and" },
+            { "lyrics": "get" },
+            { "lyrics": "her", "chords": "C" }
+          ],
+          [
+            { "lyrics": "The" },
+            { "lyrics": "minute" },
+            { "lyrics": "you" },
+            { "lyrics": "let" },
+            { "lyrics": "her" },
+            { "lyrics": "under" },
+            { "lyrics": "your" },
+            { "lyrics": "skin", "chords": "F" }
+         ],
+          [
+            { "lyrics": "Then" },
+            { "lyrics": "you" },
+            { "lyrics": "begin" },
+            { "lyrics": "to" },
+            { "lyrics": "make" },
+            { "lyrics": "it" },
+            { "lyrics": "better", "chords": "C" }
+         ],
+          [
+            { "lyrics": "And" },
+            { "lyrics": "anytime" },
+            { "lyrics": "you" },
+            { "lyrics": "feel" },
+            { "lyrics": "the" },
+            { "lyrics": "pain", "chords": "Am" },
+            { "lyrics": "Hey" },
+            { "lyrics": "Jude", "chords": "G" }
+          ],
+          [
+            { "lyrics": "Refrain" },
+            { "lyrics": "don't" },
+            { "lyrics": "carry" },
+            { "lyrics": "the" },
+            { "lyrics": "world", "chords": "C" },
+            { "lyrics": "upon" },
+            { "lyrics": "your" },
+            { "lyrics": "shoulders", "chords": "F" }
+          ],
+          [
+            { "lyrics": "For" },
+            { "lyrics": "well" },
+            { "lyrics": "you" },
+            { "lyrics": "know" },
+            { "lyrics": "that" },
+            { "lyrics": "it's" },
+            { "lyrics": "a" },
+            { "lyrics": "fool", "chords": "F" }
+         ],
+          [
+            { "lyrics": "Who" },
+            { "lyrics": "plays" },
+            { "lyrics": "it" },
+            { "lyrics": "cool", "chords": "C" },
+            { "lyrics": "by" },
+            { "lyrics": "making" },
+            { "lyrics": "his" },
+            { "lyrics": "world", "chords": "F" }
+          ],
+          [
+            { "lyrics": "A" },
+            { "lyrics": "little" },
+            { "lyrics": "colder", "chords": "C" }
+          ]
+
+            
+        ],
+        "image": "https://example.com/hey_jude.jpg"
+      },
+      {
+        "_id": "102",
+        "name": "Wonderwall",
+        "artist": "Oasis",
+        "lyrics": [
+          [
+            { "lyrics": "Today" },
+            { "lyrics": "is" },
+            { "lyrics": "gonna" },
+            { "lyrics": "be" },
+            { "lyrics": "the" },
+            { "lyrics": "day", "chords": "Em" }
+          ],
+          [
+            { "lyrics": "That" },
+            { "lyrics": "they" },
+            { "lyrics": "gonna" },
+            { "lyrics": "throw" },
+            { "lyrics": "it" },
+            { "lyrics": "back" },
+            { "lyrics": "to" },
+            { "lyrics": "you" }
+          ],
+          [
+            { "lyrics": "By" },
+            { "lyrics": "now" },
+            { "lyrics": "you" },
+            { "lyrics": "should" },
+            { "lyrics": "have" },
+            { "lyrics": "somehow" },
+            { "lyrics": "realized", "chords": "G" },
+            { "lyrics": "what" },
+            { "lyrics": "you" },
+            { "lyrics": "gotta" },
+            { "lyrics": "do" }
+          ],
+          [
+            { "lyrics": "I" },
+            { "lyrics": "don't" },
+            { "lyrics": "believe" },
+            { "lyrics": "that" },
+            { "lyrics": "anybody" },
+            { "lyrics": "feels", "chords": "A7" },
+            { "lyrics": "the" },
+            { "lyrics": "way" },
+            { "lyrics": "I" },
+            { "lyrics": "do" },
+            { "lyrics": "about" },
+            { "lyrics": "you" }
+          ],
+          [
+            { "lyrics": "Back" },
+            { "lyrics": "beat" },
+            { "lyrics": "the" },
+            { "lyrics": "word" },
+            { "lyrics": "is" },
+            { "lyrics": "on" },
+            { "lyrics": "the" },
+            { "lyrics": "street" }
+          ],
+          [
+            { "lyrics": "That" },
+            { "lyrics": "the" },
+            { "lyrics": "fire" },
+            { "lyrics": "in" },
+            { "lyrics": "your" },
+            { "lyrics": "heart" },
+            { "lyrics": "is" },
+            { "lyrics": "out", "chords": "Em" }
+          ],
+          [
+            { "lyrics": "I'm" },
+            { "lyrics": "sure" },
+            { "lyrics": "you've" },
+            { "lyrics": "heard" },
+            { "lyrics": "it" },
+            { "lyrics": "all" },
+            { "lyrics": "before" }
+          ],
+          [
+            { "lyrics": "But" },
+            { "lyrics": "you" },
+            { "lyrics": "never" },
+            { "lyrics": "really" },
+            { "lyrics": "had" },
+            { "lyrics": "a" },
+            { "lyrics": "doubt", "chords": "G" }
+          ],
+          [
+            { "lyrics": "I" },
+            { "lyrics": "don't" },
+            { "lyrics": "believe" },
+            { "lyrics": "that" },
+            { "lyrics": "anybody" },
+            { "lyrics": "feels", "chords": "A7" },
+            { "lyrics": "the" },
+            { "lyrics": "way" },
+            { "lyrics": "I" },
+            { "lyrics": "do" },
+            { "lyrics": "about" },
+            { "lyrics": "you" }
+          ],
+          [
+            { "lyrics": "And" },
+            { "lyrics": "all" },
+            { "lyrics": "the" },
+            { "lyrics": "roads" },
+            { "lyrics": "we" },
+            { "lyrics": "have" },
+            { "lyrics": "to" },
+            { "lyrics": "walk", "chords": "Em" },
+            { "lyrics": "are" },
+            { "lyrics": "winding" }
+          ],
+          [
+            { "lyrics": "And" },
+            { "lyrics": "all" },
+            { "lyrics": "the" },
+            { "lyrics": "lights" },
+            { "lyrics": "that" },
+            { "lyrics": "lead" },
+            { "lyrics": "us" },
+            { "lyrics": "there", "chords": "G" },
+            { "lyrics": "are" },
+            { "lyrics": "blinding" }
+          ],
+          [
+            { "lyrics": "There" },
+            { "lyrics": "are" },
+            { "lyrics": "many" },
+            { "lyrics": "things" },
+            { "lyrics": "that" },
+            { "lyrics": "I" },
+            { "lyrics": "would" },
+            { "lyrics": "like" },
+            { "lyrics": "to" },
+            { "lyrics": "say", "chords": "A7" },
+            { "lyrics": "to" },
+            { "lyrics": "you" }
+          ],
+          [
+            { "lyrics": "But" },
+            { "lyrics": "I" },
+            { "lyrics": "don't" },
+            { "lyrics": "know" },
+            { "lyrics": "how" }
+          ]
+        ],
+        "image": "https://example.com/wonderwall.jpg"
+      },
+      {
+        "_id": "103",
+        "name": "Hallelujah",
+        "artist": "Leonard Cohen",
+        "lyrics": [
+          [
+            { "lyrics": "Now" },
+            { "lyrics": "I've" },
+            { "lyrics": "heard" },
+            { "lyrics": "there" },
+            { "lyrics": "was" },
+            { "lyrics": "a" },
+            { "lyrics": "secret" },
+            { "lyrics": "chord", "chords": "C" }
+          ],
+          [
+            { "lyrics": "That" },
+            { "lyrics": "David" },
+            { "lyrics": "played" },
+            { "lyrics": "and" },
+            { "lyrics": "it" },
+            { "lyrics": "pleased" },
+            { "lyrics": "the" },
+            { "lyrics": "Lord" }
+          ],
+          [
+            { "lyrics": "But" },
+            { "lyrics": "you" },
+            { "lyrics": "don't" },
+            { "lyrics": "really" },
+            { "lyrics": "care" },
+            { "lyrics": "for" },
+            { "lyrics": "music" },
+            { "lyrics": "do" },
+            { "lyrics": "you" }
+          ],
+          [
+            { "lyrics": "It" },
+            { "lyrics": "goes" },
+            { "lyrics": "like" },
+            { "lyrics": "this" },
+            { "lyrics": "the" },
+            { "lyrics": "fourth" },
+            { "lyrics": "the" },
+            { "lyrics": "fifth" }
+          ],
+          [
+            { "lyrics": "The" },
+            { "lyrics": "minor" },
+            { "lyrics": "falls", "chords": "F" },
+            { "lyrics": "the" },
+            { "lyrics": "major" },
+            { "lyrics": "lifts", "chords": "G" }
+          ],
+          [
+            { "lyrics": "The" },
+            { "lyrics": "baffled" },
+            { "lyrics": "king" },
+            { "lyrics": "composing" },
+            { "lyrics": "Hallelujah", "chords": "C" }
+          ],
+          [
+            { "lyrics": "Hallelujah" },
+            { "lyrics": "Hallelujah", "chords": "F" },
+            { "lyrics": "Hallelujah", "chords": "Am" },
+            { "lyrics": "Hallelujah", "chords": "C" }
+          ],
+          [
+            { "lyrics": "Your" },
+            { "lyrics": "faith" },
+            { "lyrics": "was" },
+            { "lyrics": "strong" },
+            { "lyrics": "but" },
+            { "lyrics": "you" },
+            { "lyrics": "needed" },
+            { "lyrics": "proof" }
+          ],
+          [
+            { "lyrics": "You" },
+            { "lyrics": "saw" },
+            { "lyrics": "her" },
+            { "lyrics": "bathing" },
+            { "lyrics": "on" },
+            { "lyrics": "the" },
+            { "lyrics": "roof", "chords": "C" }
+          ],
+          [
+            { "lyrics": "Her" },
+            { "lyrics": "beauty" },
+            { "lyrics": "and" },
+            { "lyrics": "the" },
+            { "lyrics": "moonlight" },
+            { "lyrics": "overthrew", "chords": "Am" }
+          ],
+          [
+            { "lyrics": "She" },
+            { "lyrics": "tied" },
+            { "lyrics": "you" },
+            { "lyrics": "to" },
+            { "lyrics": "a" },
+            { "lyrics": "kitchen" },
+            { "lyrics": "chair" }
+          ],
+          [
+            { "lyrics": "She" },
+            { "lyrics": "broke" },
+            { "lyrics": "your" },
+            { "lyrics": "throne" },
+            { "lyrics": "and" },
+            { "lyrics": "she" },
+            { "lyrics": "cut" },
+            { "lyrics": "your" },
+            { "lyrics": "hair" }
+          ],
+          [
+            { "lyrics": "And" },
+            { "lyrics": "from" },
+            { "lyrics": "your" },
+            { "lyrics": "lips" },
+            { "lyrics": "she" },
+            { "lyrics": "drew" },
+            { "lyrics": "the" },
+            { "lyrics": "Hallelujah", "chords": "F" }
+          ],
+          [
+            { "lyrics": "Hallelujah" },
+            { "lyrics": "Hallelujah", "chords": "F" },
+            { "lyrics": "Hallelujah", "chords": "Am" },
+            { "lyrics": "Hallelujah", "chords": "C" }
+          ]
+        ],
+        "image": "https://example.com/hallelujah.jpg"
+      },
+      {
+        "_id": "104",
+        "name": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "lyrics": [
+          [
+            { "lyrics": "Is" },
+            { "lyrics": "this" },
+            { "lyrics": "the" },
+            { "lyrics": "real" },
+            { "lyrics": "life?", "chords": "G" }
+          ],
+          [
+            { "lyrics": "Is" },
+            { "lyrics": "this" },
+            { "lyrics": "just" },
+            { "lyrics": "fantasy?", "chords": "Am" }
+          ],
+          [
+            { "lyrics": "Caught" },
+            { "lyrics": "in" },
+            { "lyrics": "a" },
+            { "lyrics": "landslide" },
+            { "lyrics": "no" },
+            { "lyrics": "escape" },
+            { "lyrics": "from" },
+            { "lyrics": "reality", "chords": "D7" }
+          ],
+          [
+            { "lyrics": "Open" },
+            { "lyrics": "your" },
+            { "lyrics": "eyes" },
+            { "lyrics": "look" },
+            { "lyrics": "up" },
+            { "lyrics": "to" },
+            { "lyrics": "the" },
+            { "lyrics": "skies" },
+            { "lyrics": "and" },
+            { "lyrics": "see" }
+          ],
+          [
+            { "lyrics": "I'm" },
+            { "lyrics": "just" },
+            { "lyrics": "a" },
+            { "lyrics": "poor" },
+            { "lyrics": "boy" },
+            { "lyrics": "I" },
+            { "lyrics": "need" },
+            { "lyrics": "no" },
+            { "lyrics": "sympathy" }
+          ],
+          [
+            { "lyrics": "Because" },
+            { "lyrics": "I'm" },
+            { "lyrics": "easy" },
+            { "lyrics": "come" },
+            { "lyrics": "easy" },
+            { "lyrics": "go" },
+            { "lyrics": "little" },
+            { "lyrics": "high" },
+            { "lyrics": "little" },
+            { "lyrics": "low", "chords": "G" }
+          ],
+          [
+            { "lyrics": "Any" },
+            { "lyrics": "way" },
+            { "lyrics": "the" },
+            { "lyrics": "wind" },
+            { "lyrics": "blows" },
+            { "lyrics": "doesn't" },
+            { "lyrics": "really" },
+            { "lyrics": "matter" },
+            { "lyrics": "to" },
+            { "lyrics": "me", "chords": "C" }
+          ],
+          [
+            { "lyrics": "To" },
+            { "lyrics": "me" }
+          ],
+          [
+            { "lyrics": "Mama" },
+            { "lyrics": "just" },
+            { "lyrics": "killed" },
+            { "lyrics": "a" },
+            { "lyrics": "man" }
+          ],
+          [
+            { "lyrics": "Put" },
+            { "lyrics": "a" },
+            { "lyrics": "gun" },
+            { "lyrics": "against" },
+            { "lyrics": "his" },
+            { "lyrics": "head" }
+          ],
+          [
+            { "lyrics": "Pulled" },
+            { "lyrics": "my" },
+            { "lyrics": "trigger" },
+            { "lyrics": "now" },
+            { "lyrics": "he's" },
+            { "lyrics": "dead", "chords": "Am" }
+          ],
+          [
+            { "lyrics": "Mama" },
+            { "lyrics": "life" },
+            { "lyrics": "had" },
+            { "lyrics": "just" },
+            { "lyrics": "begun", "chords": "D7" }
+          ],
+          [
+            { "lyrics": "But" },
+            { "lyrics": "now" },
+            { "lyrics": "I've" },
+            { "lyrics": "gone" },
+            { "lyrics": "and" },
+            { "lyrics": "thrown" },
+            { "lyrics": "it" },
+            { "lyrics": "all" },
+            { "lyrics": "away", "chords": "Gm" }
+          ],
+          [
+            { "lyrics": "Mama" },
+            { "lyrics": "ooh" },
+            { "lyrics": "didn't" },
+            { "lyrics": "mean" },
+            { "lyrics": "to" },
+            { "lyrics": "make" },
+            { "lyrics": "you" },
+            { "lyrics": "cry", "chords": "C" }
+          ],
+          [
+            { "lyrics": "If" },
+            { "lyrics": "I'm" },
+            { "lyrics": "not" },
+            { "lyrics": "back" },
+            { "lyrics": "again" },
+            { "lyrics": "this" },
+            { "lyrics": "time" },
+            { "lyrics": "tomorrow" }
+          ],
+          [
+            { "lyrics": "Carry" },
+            { "lyrics": "on" },
+            { "lyrics": "carry" },
+            { "lyrics": "on" },
+            { "lyrics": "as" },
+            { "lyrics": "if" },
+            { "lyrics": "nothing" },
+            { "lyrics": "really" },
+            { "lyrics": "matters", "chords": "G" }
+          ]
+        ],
+        "image": "https://example.com/bohemian_rhapsody.jpg"
+      },
+      {
+        "_id": "105",
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "lyrics": [
+          [
+            { "lyrics": "Load" },
+            { "lyrics": "up" },
+            { "lyrics": "on" },
+            { "lyrics": "guns" },
+            { "lyrics": "bring" },
+            { "lyrics": "your" },
+            { "lyrics": "friends", "chords": "F" }
+          ],
+          [
+            { "lyrics": "It's" },
+            { "lyrics": "fun" },
+            { "lyrics": "to" },
+            { "lyrics": "lose" },
+            { "lyrics": "and" },
+            { "lyrics": "to" },
+            { "lyrics": "pretend", "chords": "Bb" }
+          ],
+          [
+            { "lyrics": "She's" },
+            { "lyrics": "overboard" },
+            { "lyrics": "self-assured" },
+            { "lyrics": "oh" },
+            { "lyrics": "no" },
+            { "lyrics": "I" },
+            { "lyrics": "know", "chords": "C" }
+          ],
+          [
+            { "lyrics": "Hello" },
+            { "lyrics": "hello" },
+            { "lyrics": "hello" },
+            { "lyrics": "how" },
+            { "lyrics": "low", "chords": "D" }
+          ],
+          [
+            { "lyrics": "With" },
+            { "lyrics": "the" },
+            { "lyrics": "lights" },
+            { "lyrics": "out" },
+            { "lyrics": "it's" },
+            { "lyrics": "less" },
+            { "lyrics": "dangerous" }
+          ],
+          [
+            { "lyrics": "Here" },
+            { "lyrics": "we" },
+            { "lyrics": "are" },
+            { "lyrics": "now" },
+            { "lyrics": "entertain" },
+            { "lyrics": "us", "chords": "F" }
+          ],
+          [
+            { "lyrics": "I" },
+            { "lyrics": "feel" },
+            { "lyrics": "stupid" },
+            { "lyrics": "and" },
+            { "lyrics": "contagious", "chords": "Bb" }
+          ],
+          [
+            { "lyrics": "Here" },
+            { "lyrics": "we" },
+            { "lyrics": "are" },
+            { "lyrics": "now" },
+            { "lyrics": "entertain" },
+            { "lyrics": "us", "chords": "F" }
+          ],
+          [
+            { "lyrics": "A" },
+            { "lyrics": "mulatto" },
+            { "lyrics": "an" },
+            { "lyrics": "albino" }
+          ],
+          [
+            { "lyrics": "A" },
+            { "lyrics": "mosquito" },
+            { "lyrics": "my" },
+            { "lyrics": "libido" }
+          ],
+          [
+            { "lyrics": "Yeah" },
+            { "lyrics": "hey" },
+            { "lyrics": "yeah" }
+          ]
+        ],
+        "image": "https://example.com/smells_like_teen_spirit.jpg"
+    }
+      
+]

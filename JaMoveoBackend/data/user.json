@@ -1,0 +1,44 @@
+[
+  {
+    "username": "nofar",
+    "password": "$2b$10$pszdx24gzJ6WXE.Zh562re6kE34ZODa5P8vsM3BQ85Tou4tuZb77m",
+    "instrument": "saxophone",
+    "_id": "eY81",
+    "isAdmin": true
+  },
+  {
+    "username": "adi",
+    "password": "$2b$10$WMWy1NR1RXz0szt0NMG3a.sVpmf4/zMFNp7TPeXn3r8LDYtCMmgZ6",
+    "instrument": "vocals",
+    "_id": "UBmp",
+    "isAdmin": false
+  },
+  {
+    "username": "sapir",
+    "password": "$2b$10$G94e8XdBrNKKY0nJn4lx/ObnmBvjdOJ1B.miIz84qqECVlXc73J8O",
+    "instrument": "vocals",
+    "isAdmin": true,
+    "_id": "stKq"
+  },
+  {
+    "username": "meitar",
+    "password": "$2b$10$LKkRlPdZso.JovieK0lZje8PhjenDhIELSCE9ty4l42by5vDZmHEW",
+    "instrument": "saxophone",
+    "isAdmin": false,
+    "_id": "ggpb"
+  },
+  {
+    "username": "admin",
+    "password": "$2b$10$o8VRieZrUPSQISi9QR94euAcXJEV7asrFAgNmqd5IfRFyN7jDYq16",
+    "instrument": "saxophone",
+    "isAdmin": true,
+    "_id": "ukvF"
+  },
+  {
+    "username": "sagi",
+    "password": "$2b$10$mK2PR59bDdTVxiw/r8XHduEmCF4WynqvCWfdpeHNimgY8/o6vRfvK",
+    "instrument": "keyboards",
+    "isAdmin": true,
+    "_id": "dqdm"
+  }
+]

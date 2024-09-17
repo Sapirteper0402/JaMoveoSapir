@@ -1,0 +1,84 @@
+.live-page {
+  position: relative;
+}
+
+.lyrics-container {
+  background-color: #2d3748;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  white-space: pre-wrap;
+  display: flex; /* Center horizontally */
+  justify-content: center; /* Center horizontally */
+}
+
+.song-container {
+  display: flex;
+  flex-direction: column;
+  /* margin: 20px; */
+  width: fit-content;
+  align-self: center; 
+}
+
+.line-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  align-items: flex-end; /* Align all words at the bottom */
+}
+
+.word-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align text to the left */
+  margin: 0 10px; /* Adjust space between words */
+}
+
+.chords {
+  font-weight: bold;
+  color: #ff6347; /* Chords color */
+  margin-bottom: 5px;
+}
+
+.lyrics {
+  font-size: 18px;
+  text-align: left; 
+}
+/* Floating button styling */
+.floating-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.toggle-scroll,
+.quit-button {
+  background-color: #d89af294; 
+  color: white;
+  border: none;
+  padding: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds shadow for better visibility */
+}
+.toggle-scroll:hover,
+.quit-button:hover {
+  background-color: #deb8eea3; 
+}
+
+
+@media (max-width: 600px) {
+  .lyrics {
+    font-size: 18px;
+  }
+
+  .chords {
+    font-size: 16px;
+  }
+}
