@@ -2,10 +2,6 @@
 
 Welcome to JaMoveo, a web application designed to enhance band rehearsals by allowing musicians to interact in real-time.
 
-Live Demo: 
-**Fot User**: [JaMoveo Project - Uset](https://jamoveosapir.onrender.com/login) 
-**Fot Admin**: [JaMoveo Project - Admin](https://jamoveosapir.onrender.com/admin-signup) 
-
 ## Features
 
 - **User Registration & Login**: Sign up and log in as a regular user or admin.
@@ -23,3 +19,15 @@ JaMoveo is built with the following technologies:
 - **Database**: MongoDB
 - **Real-Time Communication**: Socket.IO
 
+## Screenshot
+
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/7df89f94-7d6d-4522-89f3-de62a5fd48e3">
+<img width="191" alt="image" src="https://github.com/user-attachments/assets/04f3e90b-61c6-4d5d-9987-2f8de441b733">
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/dba39276-71f0-488b-87e2-4057ca3de13b">
+<img width="189" alt="image" src="https://github.com/user-attachments/assets/42b1259d-864e-47cf-9a42-21c2b2cd3b5f">
+
+## Deployment
+
+Fot User: [JaMoveo Project - Uset](https://jamoveosapir.onrender.com/login) 
+
+Fot Admin: [JaMoveo Project - Admin](https://jamoveosapir.onrender.com/admin-signup) 
